@@ -1,0 +1,24 @@
+{
+    "_user": {
+        "editor": true,
+        "proxy": "",
+        "username": "user_test",
+        "email": "user_test@test.org",
+        "orgs": ["ORG1", "ORG2", "ORG4", "ORG5"],
+        "roles": ["ROLE_GN_ADMIN", "ROLE_MD_ORG1", "ROLE_MD_ORG2"],
+        "directories": ["org1", "org2", "org4", "org5"],
+        "root_directory": "../metadata/",
+        "root_url": "http://localhost:4000/metadata/"
+    },
+    "user": {
+        "editor": true,
+        "proxy": "",
+        "username": "Guillaume RYCKELYNCK",
+        "email": "contact@geograndest.fr",
+        "orgs": ["ORG5"],
+        "roles": ["ROLE_GN_ADMIN", "ROLE_MD_ORG5"],
+        "directories": ["org5"],
+        "root_directory": "../metadata/",
+        "root_url": "http://localhost:4000/metadata/"
+    }
+}

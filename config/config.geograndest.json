@@ -1,0 +1,8 @@
+{
+    "md_role_prefix": "ROLE_MD_",
+    "md_root_url": "https://www.geograndest.fr/metadata/",
+    "md_relative_path": "../../../metadata/",
+    "extentions": [],
+    "editor_roles": ["ROLE_GN_REVIEWER", "ROLE_GN_ADMIN"],
+    "md_role_exclude": ["CAD_CNIL1", "CAD_CNIL2"]
+}
